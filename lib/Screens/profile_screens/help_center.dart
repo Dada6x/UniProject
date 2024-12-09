@@ -11,6 +11,7 @@ class HelpCenter extends StatelessWidget {
       appBar: NormalAppBar("Help Center".tr),
       body: const Center(
         child: Column(
+          //
           children: [
             Text('this is the help center page'),
             CircleAvatar(
